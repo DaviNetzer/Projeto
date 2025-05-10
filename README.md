@@ -28,7 +28,7 @@ Você também pode utilizar uma ferramenta para poder consumir a API back-end, p
 
 🎲 Rodando o Back-end (backend)
 # Clone este repositório
-$ git clone git@github.com:DaviNetzer/Projeto.git
+DaviNetzer/Projeto.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gerenciador-tarefas
